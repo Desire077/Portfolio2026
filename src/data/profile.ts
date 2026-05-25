@@ -19,7 +19,7 @@ export const profile = {
   },
   socials: {
     github: 'https://github.com/Desire077',
-    linkedin: 'https://linkedin.com/in/desire-nguembet',
+    linkedin: 'https://www.linkedin.com/in/désiré-nguembet-261b09356',
     email: 'mailto:ngudesijaph@gmail.com',
   },
 } as const
@@ -320,8 +320,8 @@ export const techWatch = {
         description: 'Veille sur l’architecture logicielle, les infrastructures et le cloud.',
       },
       {
-        name: 'OSV.dev',
-        url: 'https://osv.dev/blog/rss.xml',
+        name: 'Magazine Logisym',
+        url: 'https://magazine.logisym.org/feed/',
         description: 'Alertes sur les vulnérabilités logicielles et les risques de dépendances.',
       },
     ],
