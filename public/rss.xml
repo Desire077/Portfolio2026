@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/rss.xsl"?>
+<rss version="2.0">
+  <channel>
+    <title>Veille technologique — Désiré Nguembet</title>
+    <link>http://localhost:5173/</link>
+    <description>Sécurisation de la supply chain logicielle, SBOM, SLSA et menaces modernes.</description>
+    <language>fr-FR</language>
+    <lastBuildDate>Sun, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>SBOM — Software Bill of Materials</title>
+      <link>http://localhost:5173/#watch</link>
+      <description>Une liste d'ingrédients pour un logiciel, avec dépendances, versions, licences, provenance et détection CVE.</description>
+      <pubDate>Sun, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5173/#watch-sbom</guid>
+    </item>
+    <item>
+      <title>SLSA — Supply-chain Levels for Software Artifacts</title>
+      <link>http://localhost:5173/#watch</link>
+      <description>Framework de garanties de build, de la documentation à la vérification par des tiers.</description>
+      <pubDate>Sun, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5173/#watch-slsa</guid>
+    </item>
+    <item>
+      <title>Menaces de la chaîne d'approvisionnement</title>
+      <link>http://localhost:5173/#watch</link>
+      <description>Dependency confusion, typosquatting et compromission de mainteneurs sont des vecteurs d'attaque courants.</description>
+      <pubDate>Sun, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:5173/#watch-menaces</guid>
+    </item>
+  </channel>
+</rss>
